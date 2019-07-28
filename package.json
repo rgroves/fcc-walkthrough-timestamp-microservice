@@ -1,0 +1,30 @@
+{
+  "name": "timestamp-microservice",
+  "version": "0.0.1",
+  "description": "freeCodeCamp Timestamp Microservice project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgroves/fcc-walkthrough-timestamp-microservice.git"
+  },
+  "keywords": [
+    "Timestamp",
+    "Microservice",
+    "freeCodeCamp",
+    "API",
+    "Node",
+    "Express"
+  ],
+  "author": "Robert Groves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgroves/fcc-walkthrough-timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/rgroves/fcc-walkthrough-timestamp-microservice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
